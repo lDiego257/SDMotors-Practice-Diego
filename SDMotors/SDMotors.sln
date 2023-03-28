@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDMotors.Api", "SDMotors.Api\SDMotors.Api.csproj", "{B9B07D65-0F15-4F72-9E9D-8170EF5FE2E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B07D65-0F15-4F72-9E9D-8170EF5FE2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B07D65-0F15-4F72-9E9D-8170EF5FE2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B07D65-0F15-4F72-9E9D-8170EF5FE2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B07D65-0F15-4F72-9E9D-8170EF5FE2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4354F58-D449-4536-8DEE-B8902ED1578F}
+	EndGlobalSection
+EndGlobal
